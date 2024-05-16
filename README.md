@@ -1,7 +1,7 @@
 ### Hi, my name is Derick Pederzini
 :computer: I'm a Developer sharing my journey and my learning in tech<br/> 
 :mortar_board: Coursing Information Systems (2nd year) at FIAP, SP - Brazil<br/> 
-:thought_balloon: Currently studying Data Structures, Software Development, React, Flutter and Systems Development<br/> 
+:thought_balloon: Currently studying Data Structures, Software Development, React, Flutter and Sofware Engeneering<br/> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/derick_pdzn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derickpederzini/) 
