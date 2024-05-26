@@ -8,8 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/derick_pdzn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derickpederzini/)
 
 <div align="center">
-  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=DerickPederzini&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-  <img width="41%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickPederzini&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> 
+  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=DerickPederzini&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="41%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=DerickPederzini&theme=vue-dark&hide_border=false"/> 
 </div> 
 
 ## Skills:
